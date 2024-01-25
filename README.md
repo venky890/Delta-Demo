@@ -1,7 +1,5 @@
-# Delta-Demo
-This is a Demo for Git &amp; Github class.
+# new project
+This project is created from the local system.
+it is created by venkatesh.
 
-# teacher
-Kanuganti Srijana
-# student
-Kanuganti Venkatesh
+
